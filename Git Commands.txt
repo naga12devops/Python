@@ -17,3 +17,9 @@ git push -u origin main
 git remote add origin https://github.com/naga12devops/NgTest.git
 git branch -M main
 git push -u origin main
+
+
+$ git config --list
+$ vi ~/.gitconfig
+$ git config user.email	
+$ git config user.name
