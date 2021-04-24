@@ -475,3 +475,174 @@
   164  git config --global credential.helper wincred
   165  git pull
   166  history >> history.txt 
+    1  ssh -i <private key path> blessiepavi@104.43.216.45
+    2  $
+    3  ssh -i <private key path> blessiepavi@104.43.216.45
+    4  ssh -i <private key path> blessiepavi@104.43.216.45
+    5  ssh -i <private key path> blessiepavi@104.43.216.45
+    6  ssh -i ~/.ssh/blessiepavi blessiepavi@104.43.216.45
+    7  mvn archetype:generate
+    8  mvn archetype:generate
+    9  choco install vlc -y
+   10  mvn archetype:generate
+   11  ls
+   12  ssh -i <private key path> blessiepavi@104.43.216.45
+   13  exit
+   14  git clone https://github.com/abelsquidhead/MercuryHealthFull.git
+   15  git status
+   16   cd MercuryHealthFull/
+   17  git status
+   18  git remote add origin https://raja12bab@dev.azure.com/raja12bab/Nag/_git/Nag
+   19  git push -u origin --all
+   20  git 
+   21  git config --list
+   22  uname
+   23  who
+   24  uname
+   25  pwd
+   26  ls
+   27  ls -ltr
+   28  history -1
+   29  history
+   30  exit;
+   31  chmod 40 ngazur.pem 
+   32  ssh -i "ngazur.pem" ec2-user@ec2-18-224-137-79.us-east-2.compute.amazonaws.com
+   33  git status
+   34  git clone https://raja12bab@dev.azure.com/raja12bab/Nag/_git/Nag
+   35  git clone https://raja12bab@dev.azure.com/raja12bab/Nag/_git/Nag
+   36  git clone https://raja12bab@dev.azure.com/raja12bab/Nag/_git/Nag
+   37  ls
+   38  git Nag/
+   39  ls
+   40  cd Nag/
+   41  ls
+   42  git status 
+   43  git status 
+   44  git add .
+   45  git status 
+   46  git commit -m "test committ"
+   47  git status 
+   48  git push -u 
+   49  git config --list
+   50  git hard --reset
+   51  git --help
+   52  git --help reset
+   53  git --reset
+   54  git reset --hard
+   55  git clone https://github.com/abelsquidhead/MercuryHealthFull.git
+   56  ls -ltr
+   57  cd MercuryHealthFull/
+   58  ls
+   59  git branch
+   60  git status
+   61  git init
+   62  git status 
+   63  git commit -m "my commit nag"
+   64  git add .
+   65  git commit -m "my commit nag"
+   66  git branch -M master
+   67  git remote add origin https://github.com/naga12devops/MHF.git
+   68  git push -u origin master
+   69  git remote add origin https://github.com/naga12devops/MHF.git
+   70  git push -u origin master
+   71  git clone https://github.com/naga12devops/MHF.git
+   72  ls
+   73  git remote add origin https://github.com/naga12devops/MHF.git
+   74  git push -u origin master
+   75  cd ..
+   76  git init
+   77  git remote add origin https://github.com/naga12devops/MHF.git
+   78  git push -u origin master
+   79  cd MHF/
+   80  git push -u origin master
+   81  mvn clean install
+   82  git init
+   83  git add README.md
+   84  git status
+   85  git add .
+   86  git commit -m "python programs"
+   87  git branch -M master
+   88  git remote add origin https://github.com/naga12devops/Python.git
+   89  git push -u origin master
+   90  git config
+   91  git config --all
+   92  git config --local
+   93  git config --get-all 
+   94  it config --list
+   95  git config --list
+   96  vi $.config
+   97  ~/.gitconfig
+   98  vi ~/.gitconfig
+   99  git config --list
+  100  git push -u origin master
+  101  git push -u
+  102      git push --set-upstream origin master
+  103  git status
+  104  git add .
+  105  git comit -m "changed confi"
+  106  git status
+  107  git push -u
+  108  git push --set-upstream origin master
+  109  py read\ directories.py 
+  110  py read\ directories.py >> nag.xlsx
+  111  py read\ directories.py >> Book1.xlsx 
+  112  py read\ directories.py >> nag
+  113  git pull
+  114  git remote set-url .git
+  115  git remote -v
+  116  git push -u
+  117  git push --set-upstream origin master
+  118  git push 
+  119  git status 
+  120  rm Book1.xlsx 
+  121  rm nag 
+  122  git status 
+  123  git add .
+  124  git commit "nag"
+  125  git commit -m "nag"
+  126  git push -u remote origin
+  127  git push -u origin master
+  128  git push -u origin master
+  129  git pull ...
+  130  git remote -v
+  131  git pull
+  132  git branch
+  133  git branch --set-upstream-to=origin/master
+  134  git pull
+  135  git status
+  136  s
+  137  ls
+  138  git status
+  139  git pull
+  140  git add .
+  141  git commit -m "change"
+  142  git status 
+  143  git pull
+  144  git branch
+  145  git pull origin branchname --allow-unrelated-histories
+  146  git pull origin master --allow-unrelated-histories
+  147  git pull
+  148  git status
+  149  git add .
+  150  git commit -m "change"
+  151  git push -u
+  152  history >> history.txt
+  153  git \status
+  154  git add .
+  155  git commit -m "history uploaded"
+  156  git push -u 
+  157  git push -u 
+  158  git push -u origin master
+  159  history >> history.txt 
+  160  git status
+  161  git add .
+  162  git commit -m "changed"
+  163  git push -u 
+  164  git config --global credential.helper wincred
+  165  git pull
+  166  history >> history.txt 
+  167  git status
+  168  git add .
+  169  git commit -m "changed"
+  170  git push -u 
+  171  history >> history.txt 
